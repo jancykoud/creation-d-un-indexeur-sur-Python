@@ -1,0 +1,55 @@
+{
+  "h": {
+    "files": [],
+    "children": {
+      "e": {
+        "files": [],
+        "children": {
+          "l": {
+            "files": [],
+            "children": {
+              "l": {
+                "files": [],
+                "children": {
+                  "o": {
+                    "files": [
+                      "/path/to/file1.txt",
+                      "/path/to/file2.txt"
+                    ],
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "w": {
+    "files": [],
+    "children": {
+      "o": {
+        "files": [],
+        "children": {
+          "r": {
+            "files": [],
+            "children": {
+              "l": {
+                "files": [],
+                "children": {
+                  "d": {
+                    "files": [
+                      "/path/to/file1.txt"
+                    ],
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
